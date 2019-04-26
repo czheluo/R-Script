@@ -11,6 +11,7 @@ print_usage <- function(spec=NULL){
 	cat(getopt(spec, usage=TRUE));
 	cat("Usage example: \n")
 	cat("
+contact:meng.luo@majorbio.com or czheluo@gmail.com
 Usage example:
 
 Usage:
