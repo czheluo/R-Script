@@ -66,8 +66,6 @@ writeMat(paste('BSLMM/sim08/sim08qtn500_cattle_BS.mat'),acc1=acc1,acc2=acc2,ytes
 t1 = f(time1)
 t1
 
-
-
 geno.file<-'cattle_5024.geno.txt.gz'
 pheno.file<-'BS_cattle_5024sim05qtn500.pheno.txt'
 out.file<-'BS_cattle_5024sim05qtn500'
