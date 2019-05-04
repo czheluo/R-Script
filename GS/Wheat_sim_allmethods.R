@@ -1,3 +1,28 @@
+#!/usr/bin/env Rscript
+library('getopt');
+options(bitmapType='cairo')
+spec = matrix(c(
+    'input','i',1,'character',
+	'output','o',1,'character',
+	'help','h',0,'logical'
+	), byrow=TRUE, ncol=4)
+opt = getopt(spec);
+print_usage <- function(spec=NULL){
+	cat(getopt(spec, usage=TRUE));
+	cat("Usage example: \n")
+	cat("
+contact:meng.luo@majorbio.com or czheluo@gmail.com
+Usage example:
+Usage:
+    --input input file name
+	--output output file name
+	--help		usage
+\n")
+	q(status=1);
+}
+if ( is.null(opt$input)) { print_usage(spec)}
+if ( is.null(opt$output)){ print_usage(spec)}
+times<-Sys.time()
 library(R.matlab)
 library(glmnet)
 library(rrBLUP)
@@ -217,4 +242,6 @@ for (ij in 2:21) {
 }
 t1 = f(time1)
 t1
-
+escaptime<-Sys.time()-times;
+print("Done!");
+print(escaptime)
