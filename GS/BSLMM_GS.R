@@ -416,5 +416,7 @@ for (j in 1:20) {
 writeMat(paste('rice/rice1000_rootlength_BS.mat'),acc1=acc1,acc2=acc2,ytest=ytest,test=test)
 t1 = f(time1)
 t1
-timess<-Sys.time()-times
-print(timess)
+
+escaptime<-Sys.time()-times;
+print("Done!");
+print(escaptime)
