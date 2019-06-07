@@ -1,0 +1,17 @@
+name,num,type,,name,num,type
+abxcd,1,SNP,,abxcd,1,SNP
+abxcd,2,Indel,,abxcd,2,Indel
+ccxab,17,Indel,,efxeg,346,Indel
+abxcc,20,Indel,,nnxnp,9940,Indel
+efxeg,346,Indel,,hkxhk,10916,Indel
+aaxbb,417,Indel,,lmxll,11099,Indel
+abxcc,430,SNP,,efxeg,22952,SNP
+ccxab,435,SNP,,nnxnp,546035,SNP
+aaxbb,9107,SNP,,lmxll,621497,SNP
+nnxnp,9940,Indel,,hkxhk,719545,SNP
+hkxhk,10916,Indel,,,,
+lmxll,11099,Indel,,,,
+efxeg,22952,SNP,,,,
+nnxnp,546035,SNP,,,,
+lmxll,621497,SNP,,,,
+hkxhk,719545,SNP,,,,

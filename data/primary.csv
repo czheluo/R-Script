@@ -1,0 +1,11 @@
+name,num,type,txt
+abxcd,0.001,SNP,1
+efxeg,22.952,SNP,22952
+nnxnp,546.035,SNP,546035
+lmxll,621.497,SNP,621497
+hkxhk,719.545,SNP,719545
+abxcd,0.002,Indel,2
+efxeg,0.346,Indel,346
+nnxnp,9.94,Indel,9940
+hkxhk,10.916,Indel,10916
+lmxll,11.099,Indel,11099
