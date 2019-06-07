@@ -1,5 +1,5 @@
-# R-Script
-R Script for work
+# R Script for work
 
-# barplot
+
+### barplot
 ![breaks plot](Fig/breaks.png)
