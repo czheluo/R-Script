@@ -1,3 +1,8 @@
+##########################################
+#  https://github.com/czheluo/
+#  Copyright (C) 2019  by Meng Luo
+#  contact: czheluo@gmail.com
+##########################################
 
 library(RColorBrewer)
 gro<-read.table("group.list",header=F)
