@@ -2,6 +2,7 @@
 #  https://github.com/czheluo/
 #  Copyright (C) 2019  by Meng Luo
 #  contact: czheluo@gmail.com
+#   make venn plot with mutiple group list 
 ##########################################
 
 options(warn=-100)
