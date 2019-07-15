@@ -199,31 +199,3 @@ for(i in 1:7){
   rownames(all_stats)[i]<-paste("LG",i,sep = "")
 }
 write.csv(all_stats,file = "stats_PP.csv",quote=F,row.names=T)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
