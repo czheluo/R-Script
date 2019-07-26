@@ -2,7 +2,7 @@
 
 ### Chord Diagram
 
-<div align="center"><a href=""><img src="chord/Fig/chord.png" width="100%" alt="chord diagram"></a></div>
+<div align="center"><a href=""><img src="chord/Fig/chord.png" width="120%" alt="chord diagram"></a></div>
 
 ### barplot
 
