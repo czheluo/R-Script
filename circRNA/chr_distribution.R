@@ -1,3 +1,4 @@
+
 setwd("H:\\PROJECT\\RNA\\stats")
 
 library("ggplot2")
@@ -64,6 +65,3 @@ pdf("D_6w_VD.chr.distribution.pdf", width = 10, height = 10)
 ggplot(data=df, aes(x=chromosome, y=num,fill=chromosome)) +
   geom_bar(stat="identity", width=0.5)+xlab("chromosome")+ylab("circRNA_number")
 dev.off()
-
-
-
