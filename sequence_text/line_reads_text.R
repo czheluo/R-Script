@@ -1,9 +1,6 @@
 
 library(ggplot2)
-
 setwd("H:\\PROJECT\\OUYANGWEI/new/3/")
-
-read<-read.csv("B.csv",header = F,stringsAsFactors = T)
 read<-read.csv("B.csv",header = F,stringsAsFactors = T)
 fill<- c("#00AFBB", "#E7B800", "#FC4E07")
 themenew<-theme(axis.line=element_blank(),
@@ -26,8 +23,6 @@ themenew<-theme(axis.line=element_blank(),
              legend.background = element_rect(fill = "white")
 
 )
-
-
 B <- ggplot(data = read, aes(x = V1, y = V6,group=V5,colour=factor(V5))) +       
   #geom_line(aes(group = V2),size=1) +
   themenew+
@@ -49,8 +44,6 @@ dev.off()
 png(paste("Btext", ".png", sep = ""), width = 1000, height = 500)
 print(B)
 dev.off()
-
-
 read<-read.csv("A.csv",header = F,stringsAsFactors = T)
 fill<- c("#00AFBB", "#E7B800", "#FC4E07")
 themenew<-theme(axis.line=element_blank(),
@@ -73,7 +66,6 @@ themenew<-theme(axis.line=element_blank(),
                 legend.background = element_rect(fill = "white")
                 
 )
-
 
 A <- ggplot(data = read, aes(x = V1, y = V6,group=V5,colour=factor(V5))) +       
   #geom_line(aes(group = V2),size=1) +
