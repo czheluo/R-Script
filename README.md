@@ -1,6 +1,6 @@
 # R Script for work
 ### Read sequences along the indicated segments of the AB genome. Read counts (in brackets), read length and genomic position are indicated.
-<div align="center"><a href="sequence_text/geom_text.png"><img src="sequence_text/geom_text.png" width="80%" alt="Read sequences"></a></div>
+<div align="center"><a href="sequence_text/Btext.png"><img src="sequence_text/Btext.png" width="80%" alt="Read sequences"></a></div>
 
 ### igraph for network from expression data 
 
