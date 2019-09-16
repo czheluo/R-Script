@@ -92,7 +92,3 @@ theme <- theme(
   axis.ticks = element_line(colour = "black"),
   plot.margin = unit(c(1, 1, 1, 1), "line")
 )
-
-  
-  
-
