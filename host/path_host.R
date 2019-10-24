@@ -6,7 +6,6 @@ lfc.pathogen <- read.table("case6.path.txt",sep="\t",header=TRUE,row.names=1)
 lfc.host <- read.table("case6.host.txt",sep="\t",header=TRUE,row.names=1)
 sd.pathogen <- read.table("case6.path.txt",sep="\t",header=TRUE,row.names=1)
 sd.host <- read.table("case6.host.txt",sep="\t",header=TRUE,row.names=1)
-
 experData <- list(list(y=NULL, ty=NULL, u=NULL, tu=NULL, yUncertainties=NULL))
 experData[[1]]$y <- as.matrix(cbind(lfc.pathogen,lfc.host)) ## output data (lfc)
 experData[[1]]$ty <- c(0, 5, 10, 15, 20) ## output time vector
@@ -28,11 +27,9 @@ result <- netGenGenerateVariables(experData,
                                   flagZeros=TRUE,
                                   
 )
-
 geneNet <- result$geneNet
 dataSet <- result$dataSet
 geneNetOpt <- netGenTrain(geneNet, dataSet, verbose = TRUE)
-
 
 netGenPlot(geneNetOpt,dataSet,layout="matrix",plotName="case6.h1.timeCourse")
 netGenGraph(geneNetOpt, graphName="p1_h1.graph",outputFileFormat="pdf")
@@ -45,7 +42,6 @@ for(i in 1:dim(z)[1]){
   }
 }
 test_result=array(0,c(dim(geneNetOpt$model$parametersW),20))
-
 
 for(t in 1:20){
   b=z[,,t]
@@ -72,7 +68,6 @@ for(t in 1:20){
   geneNetOptTest <- netGenTrain(geneNet, dataSet, verbose = TRUE)
   test_result[,,t]=geneNetOptTest$model$parametersW
 }
-
 
 dataRuns=test_result
 dataRuns[dataRuns<0]=-1
