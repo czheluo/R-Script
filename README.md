@@ -16,6 +16,8 @@ Schulze S, Henkel SG, Driesch D, Guthke R, Linde J. Computational prediction of 
 ### Chord Diagram
 
 <div align="center"><a href="chord/Fig/chord.html"><img src="chord/Fig/chord.png" width="120%" alt="chord diagram"></a></div>
+<div align="center"><a href="chord/Fig/chord.html"><img src="chord/Fig/Rplot02.png" width="120%" alt="chord diagram"></a></div>
+
 
 ### barplot
 
