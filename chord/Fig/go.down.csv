@@ -1,0 +1,288 @@
+term,gene
+photosystem,psbY
+photosystem II,psbY
+chloroplast thylakoid membrane,psbP
+plastid thylakoid membrane,psbP
+thylakoid,ALDO
+thylakoid membrane,psbP
+photosynthesis,psbY
+photosynthesis,psbP
+photosynthetic membrane,psbP
+extracellular region,ALDO
+extracellular region,psbP
+thylakoid part,psbY
+thylakoid part,psbP
+tetrapyrrole binding,nirA
+tetrapyrrole binding,AOS
+tetrapyrrole binding,NR
+tetrapyrrole binding,E1.14.-.-
+tetrapyrrole binding,CYP710A
+tetrapyrrole binding,HPL
+apoplast,ALDO
+apoplast,psbP
+chloroplast part,ALDO
+chloroplast part,RP-L24
+chloroplast part,psbP
+plastid part,ALDO
+plastid part,RP-L24
+plastid part,psbP
+monooxygenase activity,AOS
+monooxygenase activity,E1.14.-.-
+monooxygenase activity,CYP710A
+monooxygenase activity,HPL
+oxidation-reduction process,K11159
+oxidation-reduction process,nirA
+oxidation-reduction process,AOS
+oxidation-reduction process,NR
+oxidation-reduction process,E1.14.-.-
+oxidation-reduction process,CYP710A
+oxidation-reduction process,MIOX
+oxidation-reduction process,HSPA1_8
+oxidation-reduction process,HPL
+oxidation-reduction process,E1.14.11.12
+oxidoreductase activity,K11159
+oxidoreductase activity,nirA
+oxidoreductase activity,AOS
+oxidoreductase activity,LOX2S
+oxidoreductase activity,NR
+oxidoreductase activity,E1.14.-.-
+oxidoreductase activity,CYP710A
+oxidoreductase activity,MIOX
+oxidoreductase activity,HSPA1_8
+oxidoreductase activity,HPL
+oxidoreductase activity,E1.14.11.12
+intrinsic component of membrane,MLO
+intrinsic component of membrane,psbY
+single-organism metabolic process,K11159
+single-organism metabolic process,nirA
+single-organism metabolic process,AOS
+single-organism metabolic process,ALDO
+single-organism metabolic process,LOX2S
+single-organism metabolic process,NR
+single-organism metabolic process,E1.14.-.-
+single-organism metabolic process,CYP710A
+single-organism metabolic process,MIOX
+single-organism metabolic process,HSPA1_8
+single-organism metabolic process,HPL
+single-organism metabolic process,E1.14.11.12
+thylakoid lumen,psbP
+single-organism process,K11159
+single-organism process,nirA
+single-organism process,AOS
+single-organism process,ALDO
+single-organism process,LOX2S
+single-organism process,NR
+single-organism process,E1.14.-.-
+single-organism process,CYP710A
+single-organism process,MIOX
+single-organism process,HSPA1_8
+single-organism process,MLO
+single-organism process,HPL
+single-organism process,E1.14.11.12
+integral component of membrane,MLO
+integral component of membrane,psbY
+cellular carbohydrate metabolic process,ALDO
+cellular carbohydrate metabolic process,MIOX
+membrane part,MLO
+membrane part,psbY
+membrane part,psbP
+photosystem II oxygen evolving complex,psbP
+catalytic activity,K11159
+catalytic activity,nirA
+catalytic activity,AOS
+catalytic activity,ALDO
+catalytic activity,LOX2S
+catalytic activity,tuf
+catalytic activity,NR
+catalytic activity,E1.14.-.-
+catalytic activity,CYP710A
+catalytic activity,MIOX
+catalytic activity,HSPA1_8
+catalytic activity,HPL
+catalytic activity,E1.14.11.12
+chloroplast envelope,ALDO
+chloroplast envelope,RP-L24
+chloroplast envelope,psbP
+plastid envelope,ALDO
+plastid envelope,RP-L24
+plastid envelope,psbP
+obsolete electron transport,NR
+carbohydrate metabolic process,ALDO
+carbohydrate metabolic process,MIOX
+envelope,ALDO
+envelope,RP-L24
+envelope,psbP
+organelle envelope,ALDO
+organelle envelope,RP-L24
+organelle envelope,psbP
+heme binding,nirA
+heme binding,AOS
+heme binding,NR
+heme binding,E1.14.-.-
+heme binding,CYP710A
+heme binding,HPL
+iron ion binding,AOS
+iron ion binding,NR
+iron ion binding,E1.14.-.-
+iron ion binding,CYP710A
+iron ion binding,MIOX
+iron ion binding,HPL
+iron ion binding,E1.14.11.12
+electron carrier activity,NR
+chloroplast stroma,ALDO
+chloroplast stroma,RP-L24
+chloroplast stroma,psbP
+plastid stroma,ALDO
+plastid stroma,RP-L24
+plastid stroma,psbP
+flavin adenine dinucleotide binding,NR
+generation of precursor metabolites and energy,ALDO
+carbon utilization,ALDO
+biological_process,K11159
+biological_process,nirA
+biological_process,AOS
+biological_process,ALDO
+biological_process,LOX2S
+biological_process,tuf
+biological_process,NR
+biological_process,RP-L24
+biological_process,E1.14.-.-
+biological_process,CYP710A
+biological_process,MIOX
+biological_process,HSPA1_8
+biological_process,MLO
+biological_process,psbY
+biological_process,HPL
+biological_process,psbP
+biological_process,E1.14.11.12
+biological_process,EREBP
+biological_process,ARR-A
+single-organism carbohydrate metabolic process,ALDO
+single-organism carbohydrate metabolic process,MIOX
+extrinsic component of membrane,psbP
+response to other organism,NR
+response to other organism,HSPA1_8
+response to other organism,MLO
+response to other organism,psbP
+response to biotic stimulus,NR
+response to biotic stimulus,HSPA1_8
+response to biotic stimulus,MLO
+response to biotic stimulus,psbP
+lipid biosynthetic process,LOX2S
+lipid metabolic process,LOX2S
+response to external biotic stimulus,NR
+response to external biotic stimulus,HSPA1_8
+response to external biotic stimulus,MLO
+response to external biotic stimulus,psbP
+coenzyme binding,NR
+response to bacterium,HSPA1_8
+response to bacterium,psbP
+single-organism cellular process,ALDO
+single-organism cellular process,LOX2S
+single-organism cellular process,NR
+single-organism cellular process,MIOX
+response to external stimulus,NR
+response to external stimulus,HSPA1_8
+response to external stimulus,MLO
+response to external stimulus,psbP
+response to light stimulus,NR
+molecular_function,K11159
+molecular_function,nirA
+molecular_function,AOS
+molecular_function,ALDO
+molecular_function,LOX2S
+molecular_function,tuf
+molecular_function,NR
+molecular_function,RP-L24
+molecular_function,E1.14.-.-
+molecular_function,CYP710A
+molecular_function,MIOX
+molecular_function,HSPA1_8
+molecular_function,MLO
+molecular_function,YWHAE
+molecular_function,psbY
+molecular_function,HPL
+molecular_function,psbP
+molecular_function,E1.14.11.12
+molecular_function,ARR-A
+response to stimulus,ALDO
+response to stimulus,NR
+response to stimulus,HSPA1_8
+response to stimulus,MLO
+response to stimulus,psbP
+response to stimulus,EREBP
+external encapsulating structure,HSPA1_8
+cell wall,HSPA1_8
+defense response to other organism,MLO
+defense response to other organism,psbP
+response to radiation,NR
+single-organism biosynthetic process,ALDO
+single-organism biosynthetic process,LOX2S
+defense response to bacterium,psbP
+multi-organism process,NR
+multi-organism process,HSPA1_8
+multi-organism process,MLO
+multi-organism process,psbP
+cofactor binding,NR
+carbon-carbon lyase activity,ALDO
+dioxygenase activity,K11159
+dioxygenase activity,LOX2S
+dioxygenase activity,E1.14.11.12
+cellular lipid metabolic process,LOX2S
+iron-sulfur cluster binding,nirA
+metal cluster binding,nirA
+metabolic process,K11159
+metabolic process,nirA
+metabolic process,AOS
+metabolic process,ALDO
+metabolic process,LOX2S
+metabolic process,NR
+metabolic process,RP-L24
+metabolic process,E1.14.-.-
+metabolic process,CYP710A
+metabolic process,MIOX
+metabolic process,HSPA1_8
+metabolic process,psbY
+metabolic process,HPL
+metabolic process,psbP
+metabolic process,E1.14.11.12
+metabolic process,EREBP
+response to abiotic stimulus,NR
+response to abiotic stimulus,HSPA1_8
+defense response,MLO
+defense response,psbP
+polyol metabolic process,ALDO
+polyol metabolic process,MIOX
+response to organic substance,ALDO
+response to oxygen-containing compound,ALDO
+lyase activity,AOS
+lyase activity,ALDO
+lyase activity,HPL
+chloroplast,tuf
+carbohydrate biosynthetic process,ALDO
+cellular aldehyde metabolic process,ALDO
+fructose-bisphosphate aldolase activity,ALDO
+alcohol metabolic process,ALDO
+alcohol metabolic process,MIOX
+response to hormone,ALDO
+response to endogenous stimulus,ALDO
+inositol metabolic process,ALDO
+inositol metabolic process,MIOX
+organic hydroxy compound metabolic process,ALDO
+organic hydroxy compound metabolic process,MIOX
+pentose-phosphate shunt,ALDO
+response to acid chemical,ALDO
+NADP metabolic process,ALDO
+plastid,tuf
+glucose 6-phosphate metabolic process,ALDO
+glyceraldehyde-3-phosphate metabolic process,ALDO
+plastid translation,RP-L24
+2-alkenal reductase [NAD(P)] activity,HSPA1_8
+regulation of nucleic acid-templated transcription,ARR-A
+regulation of RNA biosynthetic process,ARR-A
+poly-pyrimidine tract binding,psbP
+poly(U) RNA binding,psbP
+response to chemical,ALDO
+response to chemical,HSPA1_8
+monocarboxylic acid biosynthetic process,LOX2S
+immune system process,MLO
