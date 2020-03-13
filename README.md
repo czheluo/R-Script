@@ -17,7 +17,7 @@ Schulze S, Henkel SG, Driesch D, Guthke R, Linde J. Computational prediction of 
 
 <div align="center"><a href="chord/Fig/chord.html"><img src="chord/Fig/chord.png" width="120%" alt="chord diagram"></a></div>
 <div align="center"><a href="chord/Fig/chord.html"><img src="chord/Fig/Rplot02.png" width="120%" alt="chord diagram"></a></div>
-
+<div align="center"><a href="chord/Fig/euk.GO.png"><img src="chord/Fig/euk.GO.png" width="120%" alt="chord diagram"></a></div>
 
 ### barplot
 
