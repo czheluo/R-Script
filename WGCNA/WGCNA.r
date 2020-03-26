@@ -2,7 +2,7 @@ args<-commandArgs(trailingOnly=TRUE)
 if(length(args) < 6)
 {
 	stop("
-Rscript WGCNA_onestep_v17.r --args <exp.matrix> <outputdir> <annot.txt> <type> <num> <Trait>
+Rscript WGCNA.r --args <exp.matrix> <outputdir> <annot.txt> <type> <num> <Trait>
 	
 options:
 	exp.matrix : tpm/fpkm matrix
@@ -50,7 +50,6 @@ for(i in 1:nit){
 }
 rawExpr <- rawExpr[,cv > 0.1]
 
-#preprocessCore’, ‘GO.db’, ‘AnnotationDbi’
 ###step1 sample cluster
 cat("########## cluster raw sample tree ##########")
 cat("\n")
