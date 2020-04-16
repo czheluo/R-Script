@@ -1,0 +1,43 @@
+GO term,gene ID,Gene name,size
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules,ENSG00000081818,PCDHB4,5
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules,ENSG00000140937,CDH11,5
+proteoglycan metabolic process,ENSG00000060718,COL11A1,5
+proteoglycan metabolic process,ENSG00000185352,HS6ST3,5
+proteoglycan metabolic process,ENSG00000157766,ACAN,5
+proteoglycan metabolic process,ENSG00000176678,FOXL1,5
+regulation of smooth muscle cell migration,ENSG00000198121,LPAR1,5
+regulation of smooth muscle cell migration,ENSG00000146674,IGFBP3,5
+regulation of smooth muscle cell migration,ENSG00000135744,AGT,5
+regulation of smooth muscle cell migration,ENSG00000145147,SLIT2,5
+regulation of smooth muscle cell migration,ENSG00000170961,HAS2,5
+glycosaminoglycan metabolic process,ENSG00000019991,HGF,5
+glycosaminoglycan metabolic process,ENSG00000011465,DCN,5
+glycosaminoglycan metabolic process,ENSG00000157766,ACAN,5
+glycosaminoglycan metabolic process,ENSG00000123243,ITIH5,5
+positive regulation of epithelial cell migration,ENSG00000128052,KDR,5
+positive regulation of epithelial cell migration,ENSG00000135744,AGT,5
+positive regulation of epithelial cell migration,ENSG00000170961,HAS2,5
+positive regulation of epithelial cell migration,ENSG00000136960,ENPP2,5
+positive regulation of epithelial cell migration,ENSG00000140285,FGF7,5
+positive regulation of epithelial cell migration,ENSG00000176692,FOXC2,5
+positive regulation of angiogenesis,ENSG00000164342,TLR3,5
+positive regulation of angiogenesis,ENSG00000172156,CCL11,5
+positive regulation of angiogenesis,ENSG00000019991,HGF,5
+positive regulation of angiogenesis,ENSG00000091879,ANGPT2,5
+positive regulation of angiogenesis,ENSG00000176692,FOXC2,5
+positive regulation of angiogenesis,ENSG00000141448,GATA6,5
+extracellular matrix organization,ENSG00000197614,MFAP5,5
+extracellular matrix organization,ENSG00000102265,TIMP1,5
+extracellular matrix organization,ENSG00000139329,LUM,5
+extracellular matrix organization,ENSG00000128052,KDR,5
+extracellular matrix organization,ENSG00000176692,FOXC2,5
+extracellular matrix organization,ENSG00000166670,MMP10,5
+extracellular matrix organization,ENSG00000137673,MMP7,5
+extracellular matrix organization,ENSG00000157766,ACAN,5
+extracellular matrix organization,ENSG00000011465,DCN,5
+blood vessel development,ENSG00000049323,LTBP1,5
+blood vessel development,ENSG00000176692,FOXC2,5
+blood vessel development,ENSG00000091879,ANGPT2,5
+blood vessel development,ENSG00000185008,ROBO2,5
+blood vessel development,ENSG00000128918,ALDH1A2,5
+blood vessel development,ENSG00000100644,HIF1A,5
