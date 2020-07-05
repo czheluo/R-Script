@@ -1,4 +1,10 @@
 # R Script for work
+
+### install
+ 
+>git config --global http.sslBackend "openssl"
+>git config --global http.sslCAInfo C:/Program Files/R/R-3.6.0/library/openssl/cacert.pem
+
 ### host
 
 >reference
