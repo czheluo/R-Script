@@ -1,6 +1,6 @@
 # R Script for work
 
-### install
+### quickly install github R package 
  
 >git config --global http.sslBackend "openssl"
 
