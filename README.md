@@ -6,6 +6,8 @@
 
 >git config --global http.sslCAInfo C:/Program Files/R/R-3.6.0/library/openssl/cacert.pem
 
+>git config --global http.sslCAInfo /mnt/ilustre/centos7users/dna/.env/lib/R/library/openssl/cacert.pem
+
 ### host
 
 >reference
