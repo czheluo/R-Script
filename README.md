@@ -11,6 +11,12 @@
 
 >git config --global http.sslCAInfo /mnt/ilustre/centos7users/dna/.env/lib/R/library/openssl/cacert.pem
 
+### Build R Package
+
+>git config --global user.email "czheluo@gmail.com"
+
+>git config --global user.name "czheluo"
+
 
 ### host
 
