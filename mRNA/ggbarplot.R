@@ -16,7 +16,7 @@ data$sum=data[,3]+data[,4]
 
 data$second_category <- factor(data$second_category, levels = data$second_category)
 data$first_category <- factor(data$first_category, levels = unique(data$first_category))
-
+pdf('Histogram_of_Kegg.pdf', width = 10)
 ggplot(data = data, aes(x=second_category, y=sum, fill=first_category))+
   geom_bar( stat="identity",position = position_dodge(1.3), width = 0.8)+
   labs(title = 'Histogram of KEGG',x = 'KEGG pathways', y = 'Number of genes') +
@@ -48,5 +48,7 @@ ggplot(data = data, aes(x=second_category, y=sum, fill=first_category))+
         legend.position = c(0.9,0.9),
         legend.key.size = unit(0.5,'cm'))+
 	scale_fill_npg()
-
+dev.off()
         #axis.ticks = element_blank())
+
+
