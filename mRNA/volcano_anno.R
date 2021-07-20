@@ -68,3 +68,4 @@ MA<-ggplot(res,aes(x=log10(express),y=Log2FC))+
 		axis.text.y=element_text(size = 12),axis.title.y = element_text(size = 14, color = "black"),
 		plot.title = element_text(hjust = 0.5,size = 14, color = "black"))
 ggsave(paste0("test",".diffexp.scatter.pdf"), height=9, width=8,plot = MA)
+
