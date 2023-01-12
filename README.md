@@ -18,6 +18,19 @@
 >git config --global user.name "czheluo"
 
 
+### Miniconda3 install R 
+
+##### ADD CONDA-FORGE
+$ conda config --add channels conda-forge 
+
+$ conda config --set channel_priority strict
+
+##### INSTALL 
+$ conda search r-base 
+$ conda create -n R4.2.2
+$ conda activate R4.2.2
+$ conda install -c conda-forge -r r-base=4.2.2
+
 ### host
 
 >reference
