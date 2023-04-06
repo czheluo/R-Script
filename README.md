@@ -38,8 +38,11 @@ $ conda install -c conda-forge -r r-base=4.2.2
 
 ##### INSTALL PACKAGES
 $conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+
 $conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+
 $conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda
+
 $conda config --set show_channel_urls yes
 
 ### host
