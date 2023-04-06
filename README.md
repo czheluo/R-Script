@@ -25,11 +25,22 @@ $ conda config --add channels conda-forge
 
 $ conda config --set channel_priority strict
 
+
+
 ##### INSTALL 
 $ conda search r-base 
+
 $ conda create -n R4.2.2
+
 $ conda activate R4.2.2
+
 $ conda install -c conda-forge -r r-base=4.2.2
+
+##### INSTALL PACKAGES
+$conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+$conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+$conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda
+$conda config --set show_channel_urls yes
 
 ### host
 
