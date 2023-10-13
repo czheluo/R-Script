@@ -16,7 +16,9 @@
 >git config --global user.email "czheluo@gmail.com"
 
 >git config --global user.name "czheluo"
-
+> conda install R need change the gun++11 to c++11, and need change install pkg-config (conda install )
+>conda install -c conda-forge pkg-config
+>conda install -c anaconda hdf5
 
 ### Miniconda3 install R 
 
