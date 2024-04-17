@@ -20,6 +20,11 @@
 >conda install -c conda-forge pkg-config
 >conda install -c anaconda hdf5
 
+$ ./configure --prefix=/mnt/ilustre/users/meng.luo/project/RNA/ST/R4.3.3
+$ make
+$ make install 
+
+
 ### Miniconda3 install R 
 
 ##### ADD CONDA-FORGE
