@@ -13,6 +13,19 @@
 
 ### Build R Package
 
+install packages from the github
+library("usethis")
+git_sitrep() # git situation report
+usethis::create_github_token()# open the website and make new token
+usethis::edit_r_environ() #可以改变temp的目录，重启就可以更新path
+#get tempdir ：
+tempdir()
+
+#EDIT：GITHUB_TOKEN="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"
+#• Modify '/mnt/ilustre/users/meng.luo/.Renviron'
+#• Restart R for changes to take effect
+
+
 >git config --global user.email "czheluo@gmail.com"
 
 >git config --global user.name "czheluo"
