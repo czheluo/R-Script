@@ -25,6 +25,14 @@ tempdir()
 #• Modify '/mnt/ilustre/users/meng.luo/.Renviron'
 #• Restart R for changes to take effect
 
+# 直接安装开源不需要上面的安装方式
+
+Sys.unsetenv("GITHUB_TOKEN")
+
+# 如果安装包太大了，直接下载报错的链接，然后本地安装
+
+可以设置时间：
+options(timeout = 600000000) ### set this to avoid timeout error
 
 >git config --global user.email "czheluo@gmail.com"
 
